@@ -9,6 +9,9 @@ def lesson(request):
 
 
 
+def lesson(request):
+    return HttpResponse("ДЗ")
+
 
 
 
